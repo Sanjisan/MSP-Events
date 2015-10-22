@@ -1,5 +1,5 @@
 #Getting Started
-Covers topics that are expected to be completed before attending the event. Things like having software downloaded and/or updated to the most current version unless otherwise specified. Also includes Unity account creation.
+***Covers topics that are expected to be completed before attending the event.*** Things like having software downloaded and/or updated to the most current version unless otherwise specified. Also includes Unity account creation.
 
 ##What will be covered in this event?
 By the end of this event we expect you to be able to create and setup a basic 2D game that allows for the character to move around the level, collect objects as well as count and keep score of how many have been collected, and import/export assets into the game. This is a very basic tutorial and is a modified version of the ball game tutorial that can be found on Unity's website. They have a great number of resources that are free for all to access. We simply used this version as our "Hello World!" for Unity, but in a way where we can answer any questions that arise as they come about. In future sessions we will be creating custom games.
