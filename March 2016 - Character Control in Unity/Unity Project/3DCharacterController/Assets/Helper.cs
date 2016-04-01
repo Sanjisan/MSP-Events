@@ -11,8 +11,8 @@ namespace Helper {
 
         public static string Jump = "Jump";
 
-        //public static string MouseX = "MouseX";
-        //public static string MouseY = "MouseY";
+        public static string MouseX = "MouseX";
+        public static string MouseY = "MouseY";
     }
 
     public class GameTag

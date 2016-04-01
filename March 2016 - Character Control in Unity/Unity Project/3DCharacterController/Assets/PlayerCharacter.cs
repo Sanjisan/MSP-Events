@@ -18,6 +18,7 @@ using Helper;
 [RequireComponent(typeof(PlayerCamera))]
 [RequireComponent(typeof(PlayerMotor))]
 [RequireComponent(typeof(CharacterController))]
+[RequireComponent(typeof(NetworkView))]
 public class PlayerCharacter : MonoBehaviour {
 
     #region Private Fields & Properties
